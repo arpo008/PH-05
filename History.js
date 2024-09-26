@@ -1,6 +1,6 @@
 document.getElementById('Donation').addEventListener('click', function(){
 
-    showSecByID('Donation-part');
+    showSecByID('1stpart');
 });
 
 document.getElementById('History').addEventListener('click', function(){
